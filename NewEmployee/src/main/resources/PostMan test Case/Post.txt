@@ -1,0 +1,25 @@
+Post
+
+http://localhost:9090/addemployee
+
+
+
+{
+    "postingid": 5,
+    "onsiteothercountry": "Ind",
+    "onsiteothercountrydesc": "NA",
+    "probation": "6Months",
+    "status": "Trainee",
+    "role": "Testing",
+    "reportingto": 205,
+    "designationid": 15,
+    "division": 305,
+    "bandid": 505,
+    "createdby": "HR",
+    "createddate": "2023-06-11T18:30:00.000+00:00",
+    "modifiedby": "Admin",
+    "modifieddate": "2023-05-29T18:30:00.000+00:00",
+    "empCode": "105"
+}
+
+

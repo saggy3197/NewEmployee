@@ -1,0 +1,56 @@
+http://localhost:9090/employee/get
+
+
+[
+    {
+        "postingid": 3,
+        "onsiteothercountry": "USA",
+        "onsiteothercountrydesc": "NA",
+        "probation": "NA",
+        "status": "Software Engineer",
+        "role": "Testing",
+        "reportingto": 203,
+        "designationid": 13,
+        "division": 303,
+        "bandid": 503,
+        "createdby": "HR",
+        "createddate": "2012-03-23T18:30:00.000+00:00",
+        "modifiedby": "Admin",
+        "modifieddate": "2020-03-30T18:30:00.000+00:00",
+        "empCode": "103"
+    },
+    {
+        "postingid": 1,
+        "onsiteothercountry": "Ind",
+        "onsiteothercountrydesc": "NA",
+        "probation": "3Months",
+        "status": "Trainee",
+        "role": "Testing",
+        "reportingto": 201,
+        "designationid": 11,
+        "division": 301,
+        "bandid": 501,
+        "createdby": "CEO",
+        "createddate": "2023-06-11T18:30:00.000+00:00",
+        "modifiedby": "Admin",
+        "modifieddate": "2023-05-29T18:30:00.000+00:00",
+        "empCode": "101"
+    },
+    {
+        "postingid": 2,
+        "onsiteothercountry": "Ind",
+        "onsiteothercountrydesc": "NA",
+        "probation": "1 Year",
+        "status": "Software Engineer",
+        "role": "Devloper",
+        "reportingto": 202,
+        "designationid": 12,
+        "division": 302,
+        "bandid": 502,
+        "createdby": "HR",
+        "createddate": "2023-06-21T18:30:00.000+00:00",
+        "modifiedby": "Admin",
+        "modifieddate": "2023-06-11T18:30:00.000+00:00",
+        "empCode": "102"
+    }
+]
