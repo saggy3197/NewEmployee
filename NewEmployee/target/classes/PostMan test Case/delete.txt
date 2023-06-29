@@ -1,0 +1,3 @@
+delete
+
+http://localhost:9090/employee/delete/empcode
